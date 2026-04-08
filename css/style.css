@@ -42,3 +42,14 @@ img {
     background: url('../images/logo-mobile.png') center center/56px no-repeat;
     font-size: 0;
 }
+
+.btn-menu {
+    width: 56px;
+    height: 56px;
+    float: right;
+    text-align: center;
+    color: #fff;
+    border-radius: 56px;
+    cursor: pointer;
+    background: linear-gradient(to right, #ce2e3c, #da6709);
+}
