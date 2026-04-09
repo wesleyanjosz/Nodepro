@@ -240,3 +240,16 @@ img {
     margin-top: 2%;
     color: rgba(255, 255, 255, 0.7);
 }
+
+/* mobile first */
+/* small devices */
+@media screen and (min-width: 480px) {
+    .logo {
+        width: 214px;
+        background: url('../images/logo.png') center center/214px no-repeat;
+    }
+
+    .btn {
+        font-size: 2em;
+    }
+}
