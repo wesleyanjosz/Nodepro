@@ -7,10 +7,10 @@ Site nodepro curso nodestudio treinamentos
 Desenvolver uma lading page responsivel para displays pequenos, médios e largos. Lading page de um comércio de informática com logo, menu, conteúdo principal, newsletter e rodapé.
 
 ## screenshot
-<img scr="./screenshot/01-image.png"/>
-<img scr="./screenshot/02-image.png"/>
-<img scr="./screenshot/03-image.png"/>
-<img scr="./screenshot/04-image.png"/>
-<img scr="./screenshot/05-image.png"/>
-<img scr="./screenshot/06-image.png"/>
-<img scr="./screenshot/07-image.png"/>
+<img src="./screenshot/01-image.png"/>
+<img src="./screenshot/02-image.png"/>
+<img src="./screenshot/03-image.png"/>
+<img src="./screenshot/04-image.png"/>
+<img src="./screenshot/05-image.png"/>
+<img src="./screenshot/06-image.png"/>
+<img src="./screenshot/07-image.png"/>
