@@ -253,3 +253,83 @@ img {
         font-size: 2em;
     }
 }
+
+/* medium devices */
+@media screen and (min-width: 768px) {
+    .service {
+        width: 49%;
+        float: left;
+        margin-right: 2%;
+    }
+
+    .service:nth-child(2) {
+        margin-right: 0;
+    }
+
+    .newsletter h2 {
+        font-size: 2em;
+    }
+
+    .newsletter h3 {
+        font-size: 1.5em;
+    }
+
+    .newsletter input {
+        width: 70%;
+        padding: 2%;
+        float: left;
+        margin-right: 1%;
+    }
+
+    .newsletter button {
+        width: 29%;
+        padding: 2%;
+        float: right;
+        margin-top: 0;
+    }
+}
+
+/* large device */
+@media screen and (min-width: 960px) {
+    .title {
+        width: 70%;
+        float: left;
+        text-align: left;
+    }
+    
+    .title h2 {
+        font-size: 3em;
+    }
+
+    .title h3 {
+        font-size: 2em;
+    }
+
+    .buttons {
+        width: 30%;
+        float: right;
+        margin-top: 0;
+    }
+
+    .service {
+        width: 32%;
+    }
+
+    .service:nth-child(2) {
+        margin-right: 2%;
+    }
+
+    .service:nth-child(3) {
+        margin-right: 0;
+    }
+
+    .newsletter input {
+        width: 60%;
+        float: none;
+    }
+
+    .newsletter button {
+        width: 20%;
+        float: none;
+    }
+}
